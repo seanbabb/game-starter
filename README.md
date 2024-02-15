@@ -17,7 +17,7 @@ Clone this starter template into the project directory
 
 To install all dependencies  
 
-    yarn init  
+    yarn install  
 
 To compile the code  
 
